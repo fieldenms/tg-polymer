@@ -1,2 +1,2 @@
 # tg-polymer
-Polymer adapted for tg-platform
+Polymer adapted for TG Platform
