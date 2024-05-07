@@ -1,0 +1,18 @@
+{
+  "name": "@fieldenms/tg-polymer",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "https://npm.pkg.github.com"
+  },
+  "scripts": {
+    "test": "exit 0"
+  },
+  "type": "module",
+  "keywords": [],
+  "author": "",
+  "license": "BSD-3-Clause",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/fieldenms/tg-polymer.git"
+  }
+}
