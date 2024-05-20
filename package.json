@@ -1,9 +1,6 @@
 {
   "name": "@fieldenms/tg-polymer",
-  "version": "1.0.0",
-  "publishConfig": {
-    "registry": "https://npm.pkg.github.com"
-  },
+  "version": "1.0.2",
   "scripts": {
     "test": "exit 0"
   },
